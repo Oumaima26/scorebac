@@ -149,8 +149,7 @@ class ScoreTech extends Component {
                                 <td><label htmlFor="anglais">Anglais </label></td>
                                 <td><input 
                                   required   
-                                  name="anglais" 
-                                  type="number"
+                                  name="anglais"
                                   value={ this.state.anglais}
                                   onChange={this.onChangeAnglais}
                                   />

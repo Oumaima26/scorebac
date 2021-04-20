@@ -185,7 +185,6 @@ class ScoreInfo extends Component {
                                 <td><input 
                                   required   
                                   name="anglais" 
-                                  type="number"
                                   value={ this.state.anglais}
                                   onChange={this.onChangeAnglais}
                                   />
